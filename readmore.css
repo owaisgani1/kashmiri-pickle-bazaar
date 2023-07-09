@@ -1,0 +1,53 @@
+.read-more-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f9f9f9;
+}
+
+.read-more {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  max-width: 800px;
+}
+
+.image-container {
+  margin-right: 20px;
+  
+}
+
+.product-info {
+  text-align: center;
+}
+
+.product-name {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.product-description {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.benefits-header {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.benefits-list {
+  list-style: disc;
+  font-size: 20px;
+  margin: 0;
+  padding: 0 0 0 20px;
+}
+
+.benefits-list li {
+  margin-bottom: 10px;
+}
